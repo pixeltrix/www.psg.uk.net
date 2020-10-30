@@ -1,0 +1,7 @@
+title: Presentation Solutions Group
+url: https://www.psg.uk.net
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CNAME
